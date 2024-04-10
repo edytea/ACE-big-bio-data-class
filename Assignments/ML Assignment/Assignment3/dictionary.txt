@@ -1,0 +1,28 @@
+age: The age of the patient.
+sex: The sex of the patient.
+on_art: Indicates whether the patient is on antiretroviral therapy (ART).
+days_art: The number of days the patient has been on ART.
+temp: The patient's temperature, possibly in degrees Celsius.
+gcs: Glasgow Coma Scale score, a neurological scale to assess consciousness.
+weight: The weight of the patient, possibly in kilograms.
+fever: Indicates whether the patient has a fever.
+dur_fever: Duration of fever, possibly in days.
+headache: Indicates whether the patient has a headache.
+dur_headache: Duration of headache, possibly in days.
+vischange: Indicates changes in vision.
+dur_vischange: Duration of vision changes, possibly in days.
+vomit: Indicates whether the patient has vomiting.
+dur_vomit: Duration of vomiting, possibly in days.
+cd4: CD4 T cell count, a key indicator of immune function in HIV/AIDS.
+wbc: White blood cell count, an indicator of infection or disease.
+hemoglobin: Hemoglobin level, related to red blood cells.
+platelets: Platelet count, important for blood clotting.
+sodium: Sodium level in the blood, essential for various body functions.
+potassium: Potassium level in the blood, important for heart and muscle function.
+csf_lactate: Lactate level in cerebrospinal fluid (CSF), can indicate bacterial infection.
+csf_glucose_mg: Glucose level in CSF, can indicate various conditions including infections.
+csf_lymph: Lymphocyte count in CSF, can indicate inflammation or infection.
+csf_amt_removed: Amount of CSF removed, possibly during a lumbar puncture.
+viralload: The quantity of virus in the bloodstream, important in monitoring HIV infection.
+artnaive: Indicates whether the patient is naive to antiretroviral therapy, i.e., has not been treated with ART before.
+Label: This might indicate the outcome, status, or classification label for the patient, depending on the study's context.
